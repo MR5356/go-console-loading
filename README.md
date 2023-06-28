@@ -1,9 +1,10 @@
 
 [![go-report](https://goreportcard.com/badge/github.com/MR5356/go-console-loading)](https://goreportcard.com/report/github.com/MR5356/go-console-loading)
+![size](https://img.shields.io/github/repo-size/MR5356/go-console-loading)
 ![contributors](https://img.shields.io/github/contributors/MR5356/go-console-loading)
 ![used-by](https://img.shields.io/sourcegraph/rrc/github.com/MR5356/go-console-loading)
 [![license](https://img.shields.io/github/license/MR5356/go-console-loading)](https://www.apache.org/licenses/LICENSE-2.0.html)
-
+[![release](https://img.shields.io/github/v/release/MR5356/go-console-loading)](https://github.com/MR5356/go-console-loading/releases)
 
 ## Usage
 ```go
